@@ -2,7 +2,7 @@
 
 Create a basic HTML page using a text editor such as Notepad or Visual Studio Code. Your HTML page should follow the standard structure and include various tags and elements covered in today's class. Additionally, write code using the image map tag to make only the colored area of the red square clickable, and make only the borders of the other three shapes clickable.
 
-## ✨ Features Learnt
+## ✨ Skills Learnt
 - **Finding Coordinates on an Image**
     > Using an online tool to get coordinates from an image.
 - **Creating an Image Map**
